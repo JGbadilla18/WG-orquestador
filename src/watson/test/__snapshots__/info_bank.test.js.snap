@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contacto del banco 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Puedes contactarnos por estos medios: 
+  *  PBX: 1717
+  *  Número directo: 2420-3000
+  *  Número directo: 2411-6000
+  *  Whastapp: 2411-6000
+  *  Bi Chat: https://www.corporacionbi.com/gt/bancoindustrial/bichat
+  *  Correo: serviciobi@bi.com.gt",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

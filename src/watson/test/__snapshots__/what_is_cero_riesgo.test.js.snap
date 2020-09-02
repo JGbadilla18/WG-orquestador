@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cero Riesgo. 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "buttonType": "web_url",
+      "buttons": Array [
+        Object {
+          "title": "Conoce más aquí",
+          "url": "https://blog.corporacionbi.com/tarjeta-credito/blog/adquiere-cero-riesgo-con-tus-tarjetas-de-credito-debito-bi",
+        },
+      ],
+      "response_index": 0,
+      "response_type": "button",
+      "text": " Cero Riesgo, es un servicio que protege de transacciones no reconocidas en tus Tarjetas de Crédito o Débito Bi, realizando el reintegro de las mismas en 24 horas.
+  *  Tiene cobertura para consumos y retiros no reconocidos, por robo y/o extravío.
+  *  Tiene un costo de Q10.00 en tarjeta de débito y en tarjeta de crédito el costo varía según la categoría de la misma.",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

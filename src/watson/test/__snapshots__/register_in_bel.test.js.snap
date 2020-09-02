@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`como ingreso banco en linea. 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "buttonType": "web_url",
+      "buttons": Array [
+        Object {
+          "title": "Aquí",
+          "url": "https://www.corporacionbi.com/gt/bancoindustrial/bi-en-linea",
+        },
+      ],
+      "response_index": 0,
+      "response_type": "button",
+      "text": "Para ingresar a tu Bi en Línea sigue los siguientes tips de seguridad: Asegúrate que la página utiliza https, además de que aparezca el símbolo del candado relacionado con el certificado digital.
+Conoce cómo ingresar a Bi en Línea",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

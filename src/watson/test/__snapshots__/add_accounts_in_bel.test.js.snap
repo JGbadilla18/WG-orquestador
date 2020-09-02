@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Como adiciono cuenta en bel. 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/adiciona-y-transfiere",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Adiciona-y-transfiere-Web.jpg",
+          "subtitle": "Aprende a consultar, transferir y realizar pagos de servicios en Bi en Línea Web",
+          "title": "Cómo adicionar y transferir a terceros desde Bi en Línea Web",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tutoriales-transferencias",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Adiciona-y-transfiere-App.jpg",
+          "subtitle": "Cómo transferir entre tus cuentas, otros bancos o a terceros en Bi en Línea App",
+          "title": "Cómo adicionar y transferir a terceros desde Bi en Línea App",
+        },
+      ],
+      "response_index": 0,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

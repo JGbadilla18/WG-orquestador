@@ -1,0 +1,127 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pagos servicio 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Conoce cómo pagar tus servicios de forma inmediata como agua, luz , teléfono y a más de 2, 300 proveedores como universidades, colegios o mantenimiento del hogar.",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": " https://www.corporacionbi.com/gt/bancoindustrial/pago-de-servicios-en-bi-en-linea",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Pago-de-servicios-BEL-Web.jpg",
+          "subtitle": "Pasos para realizar pago de servicios desde Bi en Línea Web.",
+          "title": "Pago de servicios desde Bi en Línea Web",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/pago-de-servicios-con-bi-en-linea-app",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Pago-de-servicios-BEL-App.jpg",
+          "subtitle": "Pasos para realizar pago de servicios desde Bi en Línea App.",
+          "title": "Pago de servicios desde Bi en Línea App",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+  ],
+}
+`;
+
+exports[`Pagos servicio app 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Conoce cómo pagar tus servicios de forma inmediata como agua, luz , teléfono y a más de 2, 300 proveedores como universidades, colegios o mantenimiento del hogar.",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/pago-de-servicios-con-bi-en-linea-app",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Pago-de-servicios-BEL-App.jpg",
+          "subtitle": "Pasos para realizar pago de servicios desde Bi en Línea App.",
+          "title": "Pago de servicios desde Bi en Línea App",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": " https://www.corporacionbi.com/gt/bancoindustrial/pago-de-servicios-en-bi-en-linea",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Pago-de-servicios-BEL-Web.jpg",
+          "subtitle": "Pasos para realizar pago de servicios desde Bi en Línea Web.",
+          "title": "Pago de servicios desde Bi en Línea Web",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+  ],
+}
+`;
+
+exports[`Pagos servicio web 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Conoce cómo pagar tus servicios de forma inmediata como agua, luz , teléfono y a más de 2, 300 proveedores como universidades, colegios o mantenimiento del hogar.",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": " https://www.corporacionbi.com/gt/bancoindustrial/pago-de-servicios-en-bi-en-linea",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Pago-de-servicios-BEL-Web.jpg",
+          "subtitle": "Pasos para realizar pago de servicios desde Bi en Línea Web.",
+          "title": "Pago de servicios desde Bi en Línea Web",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/pago-de-servicios-con-bi-en-linea-app",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Pago-de-servicios-BEL-App.jpg",
+          "subtitle": "Pasos para realizar pago de servicios desde Bi en Línea App.",
+          "title": "Pago de servicios desde Bi en Línea App",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+  ],
+}
+`;

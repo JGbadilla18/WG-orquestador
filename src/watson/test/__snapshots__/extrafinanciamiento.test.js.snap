@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Extrafinanciamiento. 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "buttonType": "web_url",
+      "buttons": Array [
+        Object {
+          "title": "Aquí",
+          "url": "https://blog.corporacionbi.com/solucionesbi/prestamos/lp/calcula-tu-extrafinanciamiento",
+        },
+      ],
+      "response_index": 0,
+      "response_type": "button",
+      "text": "Puedes obtener dinero en efectivo depositado a tu cuenta monetaria, de ahorros o para pagar el saldo de tu misma tarjeta de crédito.
+Solicítalo llamando al 1717, en cualquier Agencia Bi, al Whatsapp Bi 2411-6000 o al blog de Extrafinanciamientos.
+
+Es requisito tener la tarjeta de crédito vigente y tener por lo menos 6 meses de antigüedad. Todas las solicitudes ingresan a análisis para aprobación.
+
+Cotiza y solicita tu extrafinanciamiento",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

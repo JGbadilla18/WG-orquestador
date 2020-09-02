@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prestamos de vivienda 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "buttonType": "web_url",
+      "buttons": Array [
+        Object {
+          "title": "Aquí",
+          "url": "https://blog.corporacionbi.com/bi-vienda-en-linea-banco-industrial",
+        },
+      ],
+      "response_index": 0,
+      "response_type": "button",
+      "text": " Los requisitos para optar a un crédito de vivienda son: 
+  *  Constancia de ingresos
+  *  Fotocopia DPI
+  *  Copia del carné del NIT
+  *  Últimos 3 estados de cuenta donde refleje tus ingresos
+  *  Recibo de servicios (agua, luz o teléfono - no celular -) de los últimos 3 meses
+
+ Busca tu vivienda ",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

@@ -1,0 +1,481 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`cuenta monetaria corriente. 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Para la apertura de una Cuenta Monetaria debes acercarte a Servicio al Cliente en cualquiera de nuestras Agencias Bi y presentar la siguiente papelería:
+
+  *  DPI
+  *  Recibo de servicios (agua, luz o teléfono - no celular -) de los últimos 3 meses
+  *  NIT
+  *  Depositar el monto mínimo de apertura según cuenta",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/cuenta-corriente-monetaria",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-cuentas-monetarias?utm_campaign=SolicitudEnLinea&utm_medium=PortalBi&utm_source=SitioSolicitudes&utm_content=CuentaMonetaria",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Cuenta-Corriente.jpg",
+          "subtitle": "Obtienes disponibilidad de tus fondos a través de una chequera o tu Bi Cheque.",
+          "title": "Cuenta Corriente",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/super-cuenta-monetaria",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-cuentas-monetarias?utm_campaign=SolicitudEnLinea&utm_medium=PortalBi&utm_source=SitioSolicitudes&utm_content=CuentaMonetaria",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Super-Cuenta-Monetaria.jpg",
+          "subtitle": "Dispones de tus fondos a través de chequera o Bi Cheque y acumulas Bi Puntos.",
+          "title": "Super Cuenta",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/cuenta-oro-quetzales-monetaria",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-cuentas-monetarias?utm_campaign=SolicitudEnLinea&utm_medium=PortalBi&utm_source=SitioSolicitudes&utm_content=CuentaMonetaria",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Cuenta-Monetaria-Quetzales-1.jpg",
+          "subtitle": "A través de tu chequera o tu Bi Cheque tienes disponibilidad de tus fondos.",
+          "title": "Cuenta Oro Quetzales",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/cuenta-oro-dolares-monetaria",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-cuentas-monetarias?utm_campaign=SolicitudEnLinea&utm_medium=PortalBi&utm_source=SitioSolicitudes&utm_content=CuentaMonetaria",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Cuenta-Monetaria-Dolares-1.jpg",
+          "subtitle": "Única cuenta en dólares, en donde dispones de tus fondos de forma inmediata.",
+          "title": "Cuenta Oro Dólares",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;
+
+exports[`cuenta monetaria oro dolares. 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Para la apertura de una Cuenta Monetaria debes acercarte a Servicio al Cliente en cualquiera de nuestras Agencias Bi y presentar la siguiente papelería:
+
+  *  DPI
+  *  Recibo de servicios (agua, luz o teléfono - no celular -) de los últimos 3 meses
+  *  NIT
+  *  Depositar el monto mínimo de apertura según cuenta",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/cuenta-oro-dolares-monetaria",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-cuentas-monetarias?utm_campaign=SolicitudEnLinea&utm_medium=PortalBi&utm_source=SitioSolicitudes&utm_content=CuentaMonetaria",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Cuenta-Monetaria-Dolares-1.jpg",
+          "subtitle": "Única cuenta en dólares, en donde dispones de tus fondos de forma inmediata.",
+          "title": "Cuenta Oro Dólares",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/cuenta-oro-quetzales-monetaria",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-cuentas-monetarias?utm_campaign=SolicitudEnLinea&utm_medium=PortalBi&utm_source=SitioSolicitudes&utm_content=CuentaMonetaria",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Cuenta-Monetaria-Quetzales-1.jpg",
+          "subtitle": "A través de tu chequera o tu Bi Cheque tienes disponibilidad de tus fondos.",
+          "title": "Cuenta Oro Quetzales",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/cuenta-corriente-monetaria",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-cuentas-monetarias?utm_campaign=SolicitudEnLinea&utm_medium=PortalBi&utm_source=SitioSolicitudes&utm_content=CuentaMonetaria",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Cuenta-Corriente.jpg",
+          "subtitle": "Obtienes disponibilidad de tus fondos a través de una chequera o tu Bi Cheque.",
+          "title": "Cuenta Corriente",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/super-cuenta-monetaria",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-cuentas-monetarias?utm_campaign=SolicitudEnLinea&utm_medium=PortalBi&utm_source=SitioSolicitudes&utm_content=CuentaMonetaria",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Super-Cuenta-Monetaria.jpg",
+          "subtitle": "Dispones de tus fondos a través de chequera o Bi Cheque y acumulas Bi Puntos.",
+          "title": "Super Cuenta",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;
+
+exports[`cuenta monetaria oro. 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Para la apertura de una Cuenta Monetaria debes acercarte a Servicio al Cliente en cualquiera de nuestras Agencias Bi y presentar la siguiente papelería:
+
+  *  DPI
+  *  Recibo de servicios (agua, luz o teléfono - no celular -) de los últimos 3 meses
+  *  NIT
+  *  Depositar el monto mínimo de apertura según cuenta",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/cuenta-oro-quetzales-monetaria",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-cuentas-monetarias?utm_campaign=SolicitudEnLinea&utm_medium=PortalBi&utm_source=SitioSolicitudes&utm_content=CuentaMonetaria",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Cuenta-Monetaria-Quetzales-1.jpg",
+          "subtitle": "A través de tu chequera o tu Bi Cheque tienes disponibilidad de tus fondos.",
+          "title": "Cuenta Oro Quetzales",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/cuenta-corriente-monetaria",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-cuentas-monetarias?utm_campaign=SolicitudEnLinea&utm_medium=PortalBi&utm_source=SitioSolicitudes&utm_content=CuentaMonetaria",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Cuenta-Corriente.jpg",
+          "subtitle": "Obtienes disponibilidad de tus fondos a través de una chequera o tu Bi Cheque.",
+          "title": "Cuenta Corriente",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/super-cuenta-monetaria",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-cuentas-monetarias?utm_campaign=SolicitudEnLinea&utm_medium=PortalBi&utm_source=SitioSolicitudes&utm_content=CuentaMonetaria",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Super-Cuenta-Monetaria.jpg",
+          "subtitle": "Dispones de tus fondos a través de chequera o Bi Cheque y acumulas Bi Puntos.",
+          "title": "Super Cuenta",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/cuenta-oro-dolares-monetaria",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-cuentas-monetarias?utm_campaign=SolicitudEnLinea&utm_medium=PortalBi&utm_source=SitioSolicitudes&utm_content=CuentaMonetaria",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Cuenta-Monetaria-Dolares-1.jpg",
+          "subtitle": "Única cuenta en dólares, en donde dispones de tus fondos de forma inmediata.",
+          "title": "Cuenta Oro Dólares",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;
+
+exports[`cuenta monetaria super cuenta. 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Para la apertura de una Cuenta Monetaria debes acercarte a Servicio al Cliente en cualquiera de nuestras Agencias Bi y presentar la siguiente papelería:
+
+  *  DPI
+  *  Recibo de servicios (agua, luz o teléfono - no celular -) de los últimos 3 meses
+  *  NIT
+  *  Depositar el monto mínimo de apertura según cuenta",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/super-cuenta-monetaria",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-cuentas-monetarias?utm_campaign=SolicitudEnLinea&utm_medium=PortalBi&utm_source=SitioSolicitudes&utm_content=CuentaMonetaria",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Super-Cuenta-Monetaria.jpg",
+          "subtitle": "Dispones de tus fondos a través de chequera o Bi Cheque y acumulas Bi Puntos.",
+          "title": "Super Cuenta",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/cuenta-corriente-monetaria",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-cuentas-monetarias?utm_campaign=SolicitudEnLinea&utm_medium=PortalBi&utm_source=SitioSolicitudes&utm_content=CuentaMonetaria",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Cuenta-Corriente.jpg",
+          "subtitle": "Obtienes disponibilidad de tus fondos a través de una chequera o tu Bi Cheque.",
+          "title": "Cuenta Corriente",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/cuenta-oro-quetzales-monetaria",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-cuentas-monetarias?utm_campaign=SolicitudEnLinea&utm_medium=PortalBi&utm_source=SitioSolicitudes&utm_content=CuentaMonetaria",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Cuenta-Monetaria-Quetzales-1.jpg",
+          "subtitle": "A través de tu chequera o tu Bi Cheque tienes disponibilidad de tus fondos.",
+          "title": "Cuenta Oro Quetzales",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/cuenta-oro-dolares-monetaria",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-cuentas-monetarias?utm_campaign=SolicitudEnLinea&utm_medium=PortalBi&utm_source=SitioSolicitudes&utm_content=CuentaMonetaria",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Cuenta-Monetaria-Dolares-1.jpg",
+          "subtitle": "Única cuenta en dólares, en donde dispones de tus fondos de forma inmediata.",
+          "title": "Cuenta Oro Dólares",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;
+
+exports[`cuenta monetaria. 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Para la apertura de una Cuenta Monetaria debes acercarte a Servicio al Cliente en cualquiera de nuestras Agencias Bi y presentar la siguiente papelería:
+
+  *  DPI
+  *  Recibo de servicios (agua, luz o teléfono - no celular -) de los últimos 3 meses
+  *  NIT
+  *  Depositar el monto mínimo de apertura según cuenta",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/super-cuenta-monetaria",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-cuentas-monetarias?utm_campaign=SolicitudEnLinea&utm_medium=PortalBi&utm_source=SitioSolicitudes&utm_content=CuentaMonetaria",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Super-Cuenta-Monetaria.jpg",
+          "subtitle": "Dispones de tus fondos a través de chequera o Bi Cheque y acumulas Bi Puntos.",
+          "title": "Super Cuenta",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/cuenta-corriente-monetaria",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-cuentas-monetarias?utm_campaign=SolicitudEnLinea&utm_medium=PortalBi&utm_source=SitioSolicitudes&utm_content=CuentaMonetaria",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Cuenta-Corriente.jpg",
+          "subtitle": "Obtienes disponibilidad de tus fondos a través de una chequera o tu Bi Cheque.",
+          "title": "Cuenta Corriente",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/cuenta-oro-quetzales-monetaria",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-cuentas-monetarias?utm_campaign=SolicitudEnLinea&utm_medium=PortalBi&utm_source=SitioSolicitudes&utm_content=CuentaMonetaria",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Cuenta-Monetaria-Quetzales-1.jpg",
+          "subtitle": "A través de tu chequera o tu Bi Cheque tienes disponibilidad de tus fondos.",
+          "title": "Cuenta Oro Quetzales",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/cuenta-oro-dolares-monetaria",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-cuentas-monetarias?utm_campaign=SolicitudEnLinea&utm_medium=PortalBi&utm_source=SitioSolicitudes&utm_content=CuentaMonetaria",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Cuenta-Monetaria-Dolares-1.jpg",
+          "subtitle": "Única cuenta en dólares, en donde dispones de tus fondos de forma inmediata.",
+          "title": "Cuenta Oro Dólares",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

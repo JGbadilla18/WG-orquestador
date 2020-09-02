@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Acerca de BI. 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Somos una sólida organización financiera, conscientes de nuestra responsabilidad con nuestros clientes y nuestro personal. Estamos #SiempreDeTuLado.",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

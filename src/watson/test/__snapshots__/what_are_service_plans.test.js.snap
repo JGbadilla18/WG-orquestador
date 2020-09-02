@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Plan mi apoyo 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "buttonType": "web_url",
+      "buttons": Array [
+        Object {
+          "title": "Aquí",
+          "url": "https://blog.corporacionbi.com/productos/boletin-plan-mi-apoyo-y-plan-mi-comodidad",
+        },
+      ],
+      "response_index": 0,
+      "response_type": "button",
+      "text": "Los Planes de Servicio Mi Apoyo y Mi Comodidad son una combinación de productos y servicios complementarios a la cuenta monetaria que Banco Industrial te ofrece a un precio menor que si se adquieren por separado. 
+Conoce sobre los beneficios de los Planes Bi.",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

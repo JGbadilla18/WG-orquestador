@@ -1,0 +1,35 @@
+{
+    "locale": "es",
+    "actions": [
+      {
+        "description": "Watson Assistant for Google Assistant",
+        "name": "MAIN",
+        "fulfillment": {
+          "conversationName": "Watson"
+        },
+        "intent": {
+          "name": "actions.intent.MAIN",
+          "trigger": {
+            "queryPatterns": [
+              "Coronavirus",
+              "Coronabot prueba gbm"
+            ]
+          }
+        }
+      }
+    ],
+    "conversations": {
+      "Watson": {
+        "name": "Watson",
+
+        "url": "https://a141679b4039.ngrok.io/google/api/messages",
+        "fulfillmentApiVersion": 2,
+        "in_dialog_intents": [
+          {
+            "name": "actions.intent.CANCEL"
+          }
+        ]
+      }
+    }
+  }
+  

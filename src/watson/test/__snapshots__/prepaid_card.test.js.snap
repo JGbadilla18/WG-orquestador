@@ -1,0 +1,371 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tarjeta prepago 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Para solicitar una tarjeta prepago debes acercarte a Servicio al Cliente en cualquiera de nuestras Agencias Bi y presentar la siguiente papelería:
+
+  *  DPI
+  *  Recibo de servicios (agua, luz o teléfono - no celular -) de los últimos 3 meses",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tarjeta-lago",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Tarjeta-Lago.jpg",
+          "subtitle": "Funciona como caja chica, depositando el dinero que se desea utilizar.",
+          "title": "Tarjeta Lago",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tu-billetera",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Tu-Billetera.jpg",
+          "subtitle": "Monedero electrónico internacional VISA, maneja efectivo de forma segura y fácil.",
+          "title": "Tu Billetera",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tcard",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/TCard.jpg",
+          "subtitle": "Es una tarjeta prepago diseñada para jóvenes de 13 a 17 años.",
+          "title": "TCard",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/productos/tu-club-bi-tambien-es-prepago",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Club-Bi.jpg",
+          "subtitle": "Tarjeta prepago donde puedes también canjear tus Bi Puntos.",
+          "title": "ClubBi",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;
+
+exports[`tarjeta prepago billetera 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Para solicitar una tarjeta prepago debes acercarte a Servicio al Cliente en cualquiera de nuestras Agencias Bi y presentar la siguiente papelería:
+
+  *  DPI
+  *  Recibo de servicios (agua, luz o teléfono - no celular -) de los últimos 3 meses",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tu-billetera",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Tu-Billetera.jpg",
+          "subtitle": "Monedero electrónico internacional VISA, maneja efectivo de forma segura y fácil.",
+          "title": "Tu Billetera",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tarjeta-lago",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Tarjeta-Lago.jpg",
+          "subtitle": "Funciona como caja chica, depositando el dinero que se desea utilizar.",
+          "title": "Tarjeta Lago",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tcard",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/TCard.jpg",
+          "subtitle": "Es una tarjeta prepago diseñada para jóvenes de 13 a 17 años.",
+          "title": "TCard",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/productos/tu-club-bi-tambien-es-prepago",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Club-Bi.jpg",
+          "subtitle": "Tarjeta prepago donde puedes también canjear tus Bi Puntos.",
+          "title": "ClubBi",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;
+
+exports[`tarjeta prepago club bi 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Para solicitar una tarjeta prepago debes acercarte a Servicio al Cliente en cualquiera de nuestras Agencias Bi y presentar la siguiente papelería:
+
+  *  DPI
+  *  Recibo de servicios (agua, luz o teléfono - no celular -) de los últimos 3 meses",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/productos/tu-club-bi-tambien-es-prepago",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Club-Bi.jpg",
+          "subtitle": "Tarjeta prepago donde puedes también canjear tus Bi Puntos.",
+          "title": "ClubBi",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tcard",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/TCard.jpg",
+          "subtitle": "Es una tarjeta prepago diseñada para jóvenes de 13 a 17 años.",
+          "title": "TCard",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tu-billetera",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Tu-Billetera.jpg",
+          "subtitle": "Monedero electrónico internacional VISA, maneja efectivo de forma segura y fácil.",
+          "title": "Tu Billetera",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tarjeta-lago",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Tarjeta-Lago.jpg",
+          "subtitle": "Funciona como caja chica, depositando el dinero que se desea utilizar.",
+          "title": "Tarjeta Lago",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;
+
+exports[`tarjeta prepago lago 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Para solicitar una tarjeta prepago debes acercarte a Servicio al Cliente en cualquiera de nuestras Agencias Bi y presentar la siguiente papelería:
+
+  *  DPI
+  *  Recibo de servicios (agua, luz o teléfono - no celular -) de los últimos 3 meses",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tarjeta-lago",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Tarjeta-Lago.jpg",
+          "subtitle": "Funciona como caja chica, depositando el dinero que se desea utilizar.",
+          "title": "Tarjeta Lago",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tu-billetera",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Tu-Billetera.jpg",
+          "subtitle": "Monedero electrónico internacional VISA, maneja efectivo de forma segura y fácil.",
+          "title": "Tu Billetera",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tcard",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/TCard.jpg",
+          "subtitle": "Es una tarjeta prepago diseñada para jóvenes de 13 a 17 años.",
+          "title": "TCard",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/productos/tu-club-bi-tambien-es-prepago",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Club-Bi.jpg",
+          "subtitle": "Tarjeta prepago donde puedes también canjear tus Bi Puntos.",
+          "title": "ClubBi",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;
+
+exports[`tarjeta prepago tcard 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Para solicitar una tarjeta prepago debes acercarte a Servicio al Cliente en cualquiera de nuestras Agencias Bi y presentar la siguiente papelería:
+
+  *  DPI
+  *  Recibo de servicios (agua, luz o teléfono - no celular -) de los últimos 3 meses",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tcard",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/TCard.jpg",
+          "subtitle": "Es una tarjeta prepago diseñada para jóvenes de 13 a 17 años.",
+          "title": "TCard",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tu-billetera",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Tu-Billetera.jpg",
+          "subtitle": "Monedero electrónico internacional VISA, maneja efectivo de forma segura y fácil.",
+          "title": "Tu Billetera",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tarjeta-lago",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Tarjeta-Lago.jpg",
+          "subtitle": "Funciona como caja chica, depositando el dinero que se desea utilizar.",
+          "title": "Tarjeta Lago",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/productos/tu-club-bi-tambien-es-prepago",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Club-Bi.jpg",
+          "subtitle": "Tarjeta prepago donde puedes también canjear tus Bi Puntos.",
+          "title": "ClubBi",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

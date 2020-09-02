@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Crear usuario de banco en linea. 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": " ¡Con Bi en Línea puedes realizar tus operaciones bancarias de forma fácil, rápida y segura a través de una computadora o dispositivo móvil! Si aún no tienes tu usuario, solicítalo a través de nuestro WhatsApp Bi 2411-6000.",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/nueva-imagen-bi-en-linea",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/04/BEL-Web.jpg",
+          "subtitle": "Accede a tu Bi en Línea por medio de la web.",
+          "title": "Bi en Línea Web",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/app-bi-en-linea",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/04/BEL-App.jpg",
+          "subtitle": "Accede a tu Bi en Línea por medio de la nueva App para dispositivos móviles",
+          "title": "Bi en Línea App",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tutoriales",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/04/Tutoriales-BEL.jpg",
+          "subtitle": "¡Aprende cómo realizar tus operaciones bancarias!",
+          "title": "Tutorial Bi en Línea",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

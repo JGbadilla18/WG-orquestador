@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Como adquirir una tarjeta de debito. 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "buttonType": "web_url",
+      "buttons": Array [
+        Object {
+          "title": "Conoce más aquí",
+          "url": " https://blog.corporacionbi.com/tarjeta-de-debito",
+        },
+      ],
+      "response_index": 0,
+      "response_type": "button",
+      "text": " Para obtener una tarjeta de débito debes tener una cuenta monetaria, puedes solicitarla acercándote a Servicio al Cliente en cualquiera de nuestras Agencias Bi.",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

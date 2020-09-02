@@ -1,0 +1,9 @@
+---
+ health-check-type: process
+ applications:
+ - name: orquestador-GW-dev
+ command: npm start
+ path: .
+ disk_quota: 1GB
+ memory: 375MB
+ instances: 1

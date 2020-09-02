@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Ayudame con mi gestion. 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "¡Hola! Soy ABI, el asistente virtual 24/7 de Banco Industrial y siempre estoy de tu lado. 🤖 Me han creado para ayudarte con tus dudas. Por ahora no puedo entender emojis, stickers, imágenes y notas de voz.",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

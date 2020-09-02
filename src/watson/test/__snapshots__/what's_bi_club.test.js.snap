@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Que es bi club 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Club Bi es un programa de beneficios y descuentos instantáneos en establecimientos afiliados. Está abierto para clientes y no clientes de Corporación Bi, y tiene un costo de Q15.00 mensuales. Puedes solicitar la tarjeta Club Bi desde tu Bi en Línea o en cualquier Agencia Bi presentando recibo de servicios, DPI y realizar un depósito.",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/productos/mejores-beneficios-club-bi-15-mes",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicita-tarjeta-club-bi",
+            },
+            Object {
+              "title": "App Club BI",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/productos/boletin-descarga-o-actualiza-club-bi-app",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/04/Club-Bi.jpg",
+          "subtitle": "¡Obtén cientos de beneficios con tu Club Bi!",
+          "title": "Club Bi",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

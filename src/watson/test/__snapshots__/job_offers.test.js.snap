@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Oportunidad laboral. 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Nos alegra que te quieras unir a nuestro equipo. Para aplicar, envía tu CV al correo electrónico oportunidades@bi.com.gt o acércate a la oficina de Recursos Humanos ubicada en 7a avenida 11-15 zona 1 de la Ciudad de Guatemala.",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

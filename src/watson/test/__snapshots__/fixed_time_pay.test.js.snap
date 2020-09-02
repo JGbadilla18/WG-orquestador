@@ -1,0 +1,151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Plazo fijo 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Para solicitar un Plazo Fijo debes acercarte a Servicio al Cliente en cualquiera de nuestras Agencias Bi y presentar la siguiente papelería:
+  *  DPI
+  *  Recibo de servicios (agua, luz o teléfono - no celular -) de los últimos 3 meses
+  *  Monto de apertura según el plazo",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/flazo-fijo-en-quetzales",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Plazo-fijo-Q.jpg",
+          "subtitle": " Inversión en quetzales a través de un Certificado de Depósito a plazo.",
+          "title": "Plazo Fijo Quetzales",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/plazo-fijo-en-dolares",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Plazo-fijo-.jpg",
+          "subtitle": "Inversión en dólares a través de un Certificado de Depósito a plazo.",
+          "title": "Plazo Fijo Dólares",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;
+
+exports[`Plazo fijo dolar 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Para solicitar un Plazo Fijo debes acercarte a Servicio al Cliente en cualquiera de nuestras Agencias Bi y presentar la siguiente papelería:
+  *  DPI
+  *  Recibo de servicios (agua, luz o teléfono - no celular -) de los últimos 3 meses
+  *  Monto de apertura según el plazo",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/plazo-fijo-en-dolares",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Plazo-fijo-.jpg",
+          "subtitle": "Inversión en dólares a través de un Certificado de Depósito a plazo.",
+          "title": "Plazo Fijo Dólares",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/flazo-fijo-en-quetzales",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Plazo-fijo-Q.jpg",
+          "subtitle": " Inversión en quetzales a través de un Certificado de Depósito a plazo.",
+          "title": "Plazo Fijo Quetzales",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;
+
+exports[`Plazo fijo quetzales 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Para solicitar un Plazo Fijo debes acercarte a Servicio al Cliente en cualquiera de nuestras Agencias Bi y presentar la siguiente papelería:
+  *  DPI
+  *  Recibo de servicios (agua, luz o teléfono - no celular -) de los últimos 3 meses
+  *  Monto de apertura según el plazo",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/flazo-fijo-en-quetzales",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Plazo-fijo-Q.jpg",
+          "subtitle": " Inversión en quetzales a través de un Certificado de Depósito a plazo.",
+          "title": "Plazo Fijo Quetzales",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/plazo-fijo-en-dolares",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Plazo-fijo-.jpg",
+          "subtitle": "Inversión en dólares a través de un Certificado de Depósito a plazo.",
+          "title": "Plazo Fijo Dólares",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

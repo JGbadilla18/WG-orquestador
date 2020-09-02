@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`dividelo todo 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/tarjeta-credito/productos/dividelo-todo",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Dividelo-Todo.jpg",
+          "subtitle": "Plan de financiamiento para tarjetas de crédito donde puedes comprar en cuotas.",
+          "title": "Divídelo Todo",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/tarjeta-credito/productos/dividelo-todo/categorias",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Promociones-Dividelo-Todo.jpg",
+          "subtitle": "¡Descubre promociones, descuentos y beneficios al comprar con Divídelo Todo!",
+          "title": "Ingresa a la categoría de tu interés",
+        },
+      ],
+      "response_index": 0,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "text",
+      "text": "Solicita Divídelo Todo con tus Tarjetas de Crédito de Banco Industrial para comprar en cuotas en tu establecimiento favorito sin ningun recargo de interés.
+
+  *  Compras en cuotas desde Q200 (aplica según políticas de comercio)
+  *  Plazos de 2, 3, 6, 10, 12, 15, 18 y 24 (aplica según políticas de comercio)
+  *  Sin recargo de interés
+  *  Acumulas Bi Puntos",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

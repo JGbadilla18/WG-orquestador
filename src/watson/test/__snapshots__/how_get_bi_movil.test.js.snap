@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cómo solicito Bi Móvil 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "buttonType": "web_url",
+      "buttons": Array [
+        Object {
+          "title": "Conoce más aquí",
+          "url": "https://blog.corporacionbi.com/solucionesbi/lp/solicitud-bi-movil",
+        },
+      ],
+      "response_index": 0,
+      "response_type": "button",
+      "text": "Bi Móvil es el servicio que te mantiene alerta, notificándote sobre movimientos en cuentas, tarjetas o préstamos.",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

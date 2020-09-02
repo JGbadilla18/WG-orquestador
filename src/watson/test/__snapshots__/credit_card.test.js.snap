@@ -1,0 +1,190 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`requisitos tarjeta de credito mastercard. 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "buttonType": "web_url",
+      "buttons": Array [
+        Object {
+          "title": "Solicítala Aquí",
+          "url": "https://blog.corporacionbi.com/tarjeta-credito/lp/solicita-tu-tarjeta-de-credito",
+        },
+      ],
+      "response_index": 0,
+      "response_type": "button",
+      "text": "Los requisitos para solicitar tu tarjeta de crédito son: 
+  *  Ser mayor de 18 años
+  *  Tener 1 año de estabilidad laboral
+  *  Ingresos mayores a Q3,000 mensuales
+  *  DPI
+  *  Recibo de servicios (agua, luz o teléfono - no celular -) de los últimos 3 meses
+  *  Ingresos mínimos de Q 3,000.00
+
+Puedes solicitar tu tarjeta de crédito en cualquier Agencia Bi, Centro de Servicio Bi Credit, nuestro Contact Center o haz clic en el siguiente botón.",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tarjetas-de-credito-mastercard",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Tarjetas-Mastercard.jpg",
+          "subtitle": "Beneficios con MASTERCARD",
+          "title": "Tarjetas Mastercard",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tarjetas-de-credito-visa",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/04/Tarjetas-Visa.jpg",
+          "subtitle": "Beneficios con VISA",
+          "title": "Tarjetas Visa",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;
+
+exports[`requisitos tarjeta de credito visa. 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "buttonType": "web_url",
+      "buttons": Array [
+        Object {
+          "title": "Solicítala Aquí",
+          "url": "https://blog.corporacionbi.com/tarjeta-credito/lp/solicita-tu-tarjeta-de-credito",
+        },
+      ],
+      "response_index": 0,
+      "response_type": "button",
+      "text": "Los requisitos para solicitar tu tarjeta de crédito son: 
+  *  Ser mayor de 18 años
+  *  Tener 1 año de estabilidad laboral
+  *  Ingresos mayores a Q3,000 mensuales
+  *  DPI
+  *  Recibo de servicios (agua, luz o teléfono - no celular -) de los últimos 3 meses
+  *  Ingresos mínimos de Q 3,000.00
+
+Puedes solicitar tu tarjeta de crédito en cualquier Agencia Bi, Centro de Servicio Bi Credit, nuestro Contact Center o haz clic en el siguiente botón.",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tarjetas-de-credito-visa",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/04/Tarjetas-Visa.jpg",
+          "subtitle": "Beneficios con VISA",
+          "title": "Tarjetas Visa",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tarjetas-de-credito-mastercard",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Tarjetas-Mastercard.jpg",
+          "subtitle": "Beneficios con MASTERCARD",
+          "title": "Tarjetas Mastercard",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;
+
+exports[`requisitos tarjeta de credito. 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "buttonType": "web_url",
+      "buttons": Array [
+        Object {
+          "title": "Solicítala Aquí",
+          "url": "https://blog.corporacionbi.com/tarjeta-credito/lp/solicita-tu-tarjeta-de-credito",
+        },
+      ],
+      "response_index": 0,
+      "response_type": "button",
+      "text": "Los requisitos para solicitar tu tarjeta de crédito son: 
+  *  Ser mayor de 18 años
+  *  Tener 1 año de estabilidad laboral
+  *  Ingresos mayores a Q3,000 mensuales
+  *  DPI
+  *  Recibo de servicios (agua, luz o teléfono - no celular -) de los últimos 3 meses
+  *  Ingresos mínimos de Q 3,000.00
+
+Puedes solicitar tu tarjeta de crédito en cualquier Agencia Bi, Centro de Servicio Bi Credit, nuestro Contact Center o haz clic en el siguiente botón.",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tarjetas-de-credito-visa",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/04/Tarjetas-Visa.jpg",
+          "subtitle": "Beneficios con VISA",
+          "title": "Tarjetas Visa",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/tarjetas-de-credito-mastercard",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Tarjetas-Mastercard.jpg",
+          "subtitle": "Beneficios con MASTERCARD",
+          "title": "Tarjetas Mastercard",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

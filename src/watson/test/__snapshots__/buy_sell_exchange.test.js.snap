@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Aceptan dolares 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "buttonType": "web_url",
+      "buttons": Array [
+        Object {
+          "title": "Aquí",
+          "url": "https://blog.corporacionbi.com/solucionesbi/comprar-divisas-efectivo-agencias-multimoneda-banco-industrial",
+        },
+      ],
+      "response_index": 0,
+      "response_type": "button",
+      "text": "Puedes verificar las monedas que ponemos a tu disposición y en qué Agencias Bi Multimoneda puedes encontrarlas",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

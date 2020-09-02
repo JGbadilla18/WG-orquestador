@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`necesito un prestamo 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "response_type": "text",
+      "text": "Puedes solicitar tu préstamo presentando:
+  *  Carta de ingresos del deudor y fiador
+  *  Fotocopia de DPI del deudor y fiador
+  *  Recibo de servicios (agua, luz o teléfono - no celular -) de los últimos 3 meses
+  *  Copia del carné del NIT
+  *  Si no tienes cuenta con Banco Industrial debes de presentar los últimos 3 estados de cuenta donde refleje tus ingresos.
+  *  Como requisito el deudor y fiador deben de tener como mínimo un año de estabilidad laboral; y el fiador debe de tener los mismos ingresos o mayores al deudor.",
+    },
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/creditos-de-consumo",
+            },
+            Object {
+              "title": "Solicítala",
+              "type": "web_url",
+              "url": "https://blog.corporacionbi.com/solucionesbi/prestamos/lp/solicita-tu-prestamo",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/04/Creditos-Bi-Facil.jpg",
+          "subtitle": " Crédito personal para consolidar tus deudas, remodelar tu hogar o comprar carro.",
+          "title": " Créditos Bi Fácil",
+        },
+      ],
+      "response_index": 1,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

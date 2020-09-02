@@ -1,0 +1,475 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`cuales son los montos maximos 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-propias-5110",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-propias.jpg",
+          "subtitle": "Desde esta opción podrás realizar transferencias entre tus Cuentas Bi.",
+          "title": "Transferencias propias",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-a-terceros",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-a-terceros.jpg",
+          "subtitle": "Con esta opción puedes realizar transferencias y pagos a otras cuentas de Banco.",
+          "title": "Transferencias a terceros",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-a-otros-bancos-bel",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-otros-bancos.jpg",
+          "subtitle": "Desde está opción podrás realizar tus transferencias y pagos a otros bancos.",
+          "title": "Transferencias a otros bancos",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": " https://www.corporacionbi.com/gt/bancoindustrial/transferencias-al-exterior-5116",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-al-exterior.jpg",
+          "subtitle": "Envía transferencias a cualquier parte del mundo por medio de esta opción.",
+          "title": "Transferencias al exterior",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-moviles-5071",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-moviles-1.jpg",
+          "subtitle": "Envía efectivo a cualquier persona que tenga un celular sin tener Cuenta Bi.",
+          "title": "Transferencias móviles",
+        },
+      ],
+      "response_index": 0,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;
+
+exports[`maximos montos al exterior 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": " https://www.corporacionbi.com/gt/bancoindustrial/transferencias-al-exterior-5116",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-al-exterior.jpg",
+          "subtitle": "Envía transferencias a cualquier parte del mundo por medio de esta opción.",
+          "title": "Transferencias al exterior",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-propias-5110",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-propias.jpg",
+          "subtitle": "Desde esta opción podrás realizar transferencias entre tus Cuentas Bi.",
+          "title": "Transferencias propias",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-a-terceros",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-a-terceros.jpg",
+          "subtitle": "Con esta opción puedes realizar transferencias y pagos a otras cuentas de Banco.",
+          "title": "Transferencias a terceros",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-a-otros-bancos-bel",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-otros-bancos.jpg",
+          "subtitle": "Desde está opción podrás realizar tus transferencias y pagos a otros bancos.",
+          "title": "Transferencias a otros bancos",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-moviles-5071",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-moviles-1.jpg",
+          "subtitle": "Envía efectivo a cualquier persona que tenga un celular sin tener Cuenta Bi.",
+          "title": "Transferencias móviles",
+        },
+      ],
+      "response_index": 0,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;
+
+exports[`maximos montos mobiles 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-moviles-5071",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-moviles-1.jpg",
+          "subtitle": "Envía efectivo a cualquier persona que tenga un celular sin tener Cuenta Bi.",
+          "title": "Transferencias móviles",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-propias-5110",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-propias.jpg",
+          "subtitle": "Desde esta opción podrás realizar transferencias entre tus Cuentas Bi.",
+          "title": "Transferencias propias",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-a-terceros",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-a-terceros.jpg",
+          "subtitle": "Con esta opción puedes realizar transferencias y pagos a otras cuentas de Banco.",
+          "title": "Transferencias a terceros",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-a-otros-bancos-bel",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-otros-bancos.jpg",
+          "subtitle": "Desde está opción podrás realizar tus transferencias y pagos a otros bancos.",
+          "title": "Transferencias a otros bancos",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": " https://www.corporacionbi.com/gt/bancoindustrial/transferencias-al-exterior-5116",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-al-exterior.jpg",
+          "subtitle": "Envía transferencias a cualquier parte del mundo por medio de esta opción.",
+          "title": "Transferencias al exterior",
+        },
+      ],
+      "response_index": 0,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;
+
+exports[`montos maximos a otros bancos 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-a-otros-bancos-bel",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-otros-bancos.jpg",
+          "subtitle": "Desde está opción podrás realizar tus transferencias y pagos a otros bancos.",
+          "title": "Transferencias a otros bancos",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-propias-5110",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-propias.jpg",
+          "subtitle": "Desde esta opción podrás realizar transferencias entre tus Cuentas Bi.",
+          "title": "Transferencias propias",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-a-terceros",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-a-terceros.jpg",
+          "subtitle": "Con esta opción puedes realizar transferencias y pagos a otras cuentas de Banco.",
+          "title": "Transferencias a terceros",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": " https://www.corporacionbi.com/gt/bancoindustrial/transferencias-al-exterior-5116",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-al-exterior.jpg",
+          "subtitle": "Envía transferencias a cualquier parte del mundo por medio de esta opción.",
+          "title": "Transferencias al exterior",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-moviles-5071",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-moviles-1.jpg",
+          "subtitle": "Envía efectivo a cualquier persona que tenga un celular sin tener Cuenta Bi.",
+          "title": "Transferencias móviles",
+        },
+      ],
+      "response_index": 0,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;
+
+exports[`montos maximos a terceros 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-a-terceros",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-a-terceros.jpg",
+          "subtitle": "Con esta opción puedes realizar transferencias y pagos a otras cuentas de Banco.",
+          "title": "Transferencias a terceros",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-propias-5110",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-propias.jpg",
+          "subtitle": "Desde esta opción podrás realizar transferencias entre tus Cuentas Bi.",
+          "title": "Transferencias propias",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-a-otros-bancos-bel",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-otros-bancos.jpg",
+          "subtitle": "Desde está opción podrás realizar tus transferencias y pagos a otros bancos.",
+          "title": "Transferencias a otros bancos",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": " https://www.corporacionbi.com/gt/bancoindustrial/transferencias-al-exterior-5116",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-al-exterior.jpg",
+          "subtitle": "Envía transferencias a cualquier parte del mundo por medio de esta opción.",
+          "title": "Transferencias al exterior",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-moviles-5071",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-moviles-1.jpg",
+          "subtitle": "Envía efectivo a cualquier persona que tenga un celular sin tener Cuenta Bi.",
+          "title": "Transferencias móviles",
+        },
+      ],
+      "response_index": 0,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;
+
+exports[`montos maximos propios 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "elements": Array [
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-propias-5110",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-propias.jpg",
+          "subtitle": "Desde esta opción podrás realizar transferencias entre tus Cuentas Bi.",
+          "title": "Transferencias propias",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-a-terceros",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-a-terceros.jpg",
+          "subtitle": "Con esta opción puedes realizar transferencias y pagos a otras cuentas de Banco.",
+          "title": "Transferencias a terceros",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-a-otros-bancos-bel",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-otros-bancos.jpg",
+          "subtitle": "Desde está opción podrás realizar tus transferencias y pagos a otros bancos.",
+          "title": "Transferencias a otros bancos",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": " https://www.corporacionbi.com/gt/bancoindustrial/transferencias-al-exterior-5116",
+            },
+          ],
+          "image_url": " http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-al-exterior.jpg",
+          "subtitle": "Envía transferencias a cualquier parte del mundo por medio de esta opción.",
+          "title": "Transferencias al exterior",
+        },
+        Object {
+          "buttons": Array [
+            Object {
+              "title": "Conoce más aquí",
+              "type": "web_url",
+              "url": "https://www.corporacionbi.com/gt/bancoindustrial/transferencias-moviles-5071",
+            },
+          ],
+          "image_url": "http://www.bi-social.com/clubbi/wp-content/uploads/2020/05/Transferencias-moviles-1.jpg",
+          "subtitle": "Envía efectivo a cualquier persona que tenga un celular sin tener Cuenta Bi.",
+          "title": "Transferencias móviles",
+        },
+      ],
+      "response_index": 0,
+      "response_type": "carousel",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;

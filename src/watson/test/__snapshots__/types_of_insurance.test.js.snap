@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tipos de seguros. 1`] = `
+Object {
+  "actions": Array [],
+  "components": Array [
+    Object {
+      "buttonType": "web_url",
+      "buttons": Array [
+        Object {
+          "title": "Conoce más aquí",
+          "url": " http://seguros.elroble.com/productos/",
+        },
+      ],
+      "response_index": 0,
+      "response_type": "button",
+      "text": "Puedes comunicarte a través de Whatsapp con Seguros El Roble, agrega este número y haz tu pregunta: 2420-3397",
+    },
+    Object {
+      "response_type": "pause",
+      "time": 10000,
+      "typing": true,
+    },
+  ],
+}
+`;
